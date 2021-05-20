@@ -2,6 +2,7 @@
   background-image: url("tea.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  position: relative;
 }
 
 .hero-text {
