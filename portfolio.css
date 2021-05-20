@@ -1,3 +1,4 @@
 .hero-image {
-  background-image: url("tea.jpg")
+  background-image: url("tea.jpg");
+  background-position: center;
 }
